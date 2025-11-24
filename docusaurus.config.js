@@ -29,16 +29,17 @@ const config = {
   // If you aren't using GitHub pages, you don't need these.
   organizationName: "ruizamdev", // Usually your GitHub org/user name.
   projectName: "siscom-docs", // Usually your repo name.
+  trailingSlash: false,
 
   onBrokenLinks: "throw",
 
   // Even if you don't use internationalization, you can use this field to set
   // useful metadata like html lang. For example, if your site is Chinese, you
   // may want to replace "en" with "zh-Hans".
-  i18n: {
-    defaultLocale: "es",
-    locales: ["es"],
-  },
+  // i18n: {
+  //   defaultLocale: "es-MX",
+  //   locales: ["es-MX"],
+  // },
 
   presets: [
     [
