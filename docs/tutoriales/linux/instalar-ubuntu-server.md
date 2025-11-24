@@ -1,3 +1,7 @@
+---
+sidebar_position: 4
+---
+
 # Install && Configure Ubuntu Server 24.04 LTS
 
 ## Instalar Ubuntu Server 24.04 LTS
