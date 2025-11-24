@@ -1,3 +1,7 @@
+---
+sidebar_position: 1
+---
+
 # Install Oh-My-Zsh!
 
 ### Install zsh

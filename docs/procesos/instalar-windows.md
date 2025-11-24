@@ -4,8 +4,6 @@ sidebar_position: 1
 
 # Instalación de Windows
 
----
-
 ## Proceso para su correcta instalación
 
 _**ADVERTENCIA INICIAL: Antes de hacer cualquier procedimiento, consulta con Gerencia, Mesa de Control, Jefe de Taller, o personal responsable de supervisar los servicios, para confirmar si el servicio requiere RESPALDO DE INFORMACIÓN. Confirma a pesar de que el folio lo indique. Verifica si el equipo a formatear cuenta con programas que requieran respaldo de bases de datos o cualquier otro tipo de información a demás de la información de usuario.**_
