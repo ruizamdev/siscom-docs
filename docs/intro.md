@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Bienvenido a SISCOM Docs
 
-Documentación completa del sistema SISCOM.
+Documentación para la estandarización y guía de los procesos de servicios en el taller de servicio técnico de SISCOM
 
 ## Estructura de la documentación
 
